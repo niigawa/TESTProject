@@ -62,10 +62,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 
-Test/Library/
 
-Test/obj/
-
-Test/Logs/
-
-Test/Binary/
+Test/
